@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Jasmin & Adam"
+  },
+  "hero": {
+    "eyebrow": "Wir heiraten",
+    "date": "...",
+    "intro1": "Wir freuen uns sehr, diesen Tag mit euch zu feiern.",
+    "intro2": "Auf dieser Seite findet ihr alle wichtigen Informationen zu Ort, Ablauf, Anreise und RSVP.",
+    "rsvpButton": "RSVP öffnen",
+    "locationButton": "Zum Ort"
+  },
+  "facts": {
+    "rsvpLabel": "RSVP bis",
+    "rsvpValue": "Freitag, 31. Mai 2024",
+    "venueLabel": "Ort"
+  },
+  "welcome": {
+    "eyebrow": "Willkommen",
+    "title": "Ein paar Worte vor dem großen Tag",
+    "copy1": "Wir freuen uns auf einen eleganten, entspannten Tag mit euch inmitten von Natur, guten Gesprächen und schönen Momenten.",
+    "copy2": "Bitte nehmt euch einen Moment für die Informationen auf dieser Seite und gebt uns anschließend über das RSVP-Formular Bescheid."
+  },
+  "schedule": {
+    "eyebrow": "Ablauf",
+    "title": "Der Tagesablauf",
+    "items": [
+      {
+        "number": "15.",
+        "title": "Wedding Party",
+        "description": "Ein festlicher Start in einen besonderen Abend."
+      },
+      {
+        "number": "16.",
+        "title": "Brunch Buffet",
+        "description": "Gemeinsam genießen, plaudern und den Tag entspannt ausklingen lassen."
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Location",
+    "mapButton": "Google Maps öffnen",
+    "note": "Ankunft ist mit Zug oder Auto möglich. Parkplätze sind vor Ort verfügbar."
+  },
+  "travel": {
+    "eyebrow": "Anreise",
+    "title": "Übernachten und ankommen",
+    "copy": "Falls ihr von weiter weg anreist, findet ihr in der Nähe geeignete Übernachtungsmöglichkeiten. Meldet euch gern bei Fragen zur Anreise."
+  },
+  "rsvp": {
+    "title": "Bitte gebt uns Bescheid",
+    "copy1": "RSVP bis Freitag, 31. Mai 2024.",
+    "copy2": "Vielen Dank, dass ihr uns bei der Planung helft.",
+    "button": "RSVP-Formular öffnen"
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "items": [
+      {
+        "question": "Was sollte ich tragen?",
+        "answer": "Festlich, elegant und gerne mit bequemen Schuhen."
+      },
+      {
+        "question": "Gibt es einen Kleidungscode?",
+        "answer": "Es gibt keinen strengen Dresscode, aber wir freuen uns über elegante Kleidung."
+      },
+      {
+        "question": "Kann ich einen Gast mitbringen?",
+        "answer": "Bitte prüft dafür euer RSVP-Formular oder sprecht uns direkt an."
+      }
+    ]
+  },
+  "footer": {
+    "line1": "Jasmin & Adam",
+    "line2": "Wir freuen uns darauf, mit euch zu feiern."
+  }
+}

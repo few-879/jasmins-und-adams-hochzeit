@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Jasmin & Adam"
+  },
+  "hero": {
+    "eyebrow": "Bierzemy ślub",
+    "date": "...",
+    "intro1": "Cieszymy się, że możemy świętować ten dzień razem z Wami.",
+    "intro2": "Na tej stronie znajdziecie wszystkie ważne informacje o miejscu, planie dnia, dojeździe i RSVP.",
+    "rsvpButton": "Otwórz RSVP",
+    "locationButton": "Zobacz miejsce"
+  },
+  "facts": {
+    "rsvpLabel": "RSVP do",
+    "rsvpValue": "Piątek, 31 maja 2024",
+    "venueLabel": "Miejsce"
+  },
+  "welcome": {
+    "eyebrow": "Witamy",
+    "title": "Kilka słów przed tym wyjątkowym dniem",
+    "copy1": "Cieszymy się na elegancki, spokojny dzień w otoczeniu natury, miłych rozmów i pięknych chwil.",
+    "copy2": "Prosimy, poświęćcie chwilę na informacje na tej stronie, a potem dajcie nam znać przez formularz RSVP."
+  },
+  "schedule": {
+    "eyebrow": "Plan dnia",
+    "title": "Plan dnia",
+    "items": [
+      {
+        "number": "15.",
+        "title": "Przyjęcie weselne",
+        "description": "Uroczysty początek wyjątkowego wieczoru."
+      },
+      {
+        "number": "16.",
+        "title": "Bufet brunchowy",
+        "description": "Smacznie, swobodnie i w spokojnym rytmie zakończymy ten dzień."
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Miejsce",
+    "mapButton": "Otwórz Google Maps",
+    "note": "Można dojechać pociągiem lub samochodem. Na miejscu dostępny jest parking."
+  },
+  "travel": {
+    "eyebrow": "Dojazd",
+    "title": "Nocleg i dojazd",
+    "copy": "Jeśli przyjeżdżacie z dalsza, w pobliżu znajdziecie odpowiednie miejsca na nocleg. W razie pytań dotyczących dojazdu napiszcie do nas."
+  },
+  "rsvp": {
+    "title": "Dajcie nam proszę znać",
+    "copy1": "RSVP do piątku, 31 maja 2024.",
+    "copy2": "Dziękujemy za pomoc w planowaniu.",
+    "button": "Otwórz formularz RSVP"
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "items": [
+      {
+        "question": "W co powinienem się ubrać?",
+        "answer": "Elegancko i odświętnie, najlepiej też w wygodnych butach."
+      },
+      {
+        "question": "Czy obowiązuje dress code?",
+        "answer": "Nie ma ścisłego dress code'u, ale będzie nam miło zobaczyć eleganckie stylizacje."
+      },
+      {
+        "question": "Czy mogę zabrać osobę towarzyszącą?",
+        "answer": "Sprawdźcie proszę formularz RSVP albo skontaktujcie się z nami bezpośrednio."
+      }
+    ]
+  },
+  "footer": {
+    "line1": "Jasmin & Adam",
+    "line2": "Z niecierpliwością czekamy na wspólne świętowanie."
+  }
+}

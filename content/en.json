@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Jasmin & Adam"
+  },
+  "hero": {
+    "eyebrow": "We are getting married",
+    "date": "...",
+    "intro1": "We are excited to celebrate this day with you.",
+    "intro2": "On this page you will find all the important details about the venue, schedule, travel, and RSVP.",
+    "rsvpButton": "Open RSVP",
+    "locationButton": "View location",
+    "locationButton1": "View location1",
+    "locationButton2": "View location2"
+  },
+  "facts": {
+    "rsvpLabel": "RSVP by",
+    "rsvpValue": "Friday, 31 May 2024",
+    "venueLabel": "Venue"
+  },
+  "welcome": {
+    "eyebrow": "Welcome",
+    "title": "A few words before the big day",
+    "copy1": "We are looking forward to an elegant, relaxed day with you, surrounded by nature, good conversations, and beautiful moments.",
+    "copy2": "Please take a moment to read the information on this page and then let us know via the RSVP form."
+  },
+  "schedule": {
+    "eyebrow": "Schedule",
+    "title": "The day’s flow",
+    "items": [
+      {
+        "number": "15.",
+        "title": "Wedding Party",
+        "description": "A celebratory start to a beautiful evening."
+      },
+      {
+        "number": "16.",
+        "title": "Brunch Buffet",
+        "description": "Enjoy, chat, and end the day in a relaxed atmosphere."
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Location",
+    "mapButton": "Open Google Maps",
+    "note": "You can arrive by train or car. Parking is available on site."
+  },
+  "travel": {
+    "eyebrow": "Travel",
+    "title": "Where to stay and how to get there",
+    "copy": "If you are travelling from further away, you will find suitable overnight options nearby. Feel free to reach out if you have any travel questions."
+  },
+  "rsvp": {
+    "title": "Please let us know",
+    "copy1": "RSVP by Friday, 31 May 2024.",
+    "copy2": "Thank you for helping us plan the day.",
+    "button": "Open RSVP form"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "question": "What should I wear?",
+        "answer": "Festive, elegant attire with comfortable shoes is a good choice."
+      },
+      {
+        "question": "Is there a dress code?",
+        "answer": "There is no strict dress code, but we would love for you to dress elegantly."
+      },
+      {
+        "question": "Can I bring a guest?",
+        "answer": "Please check your RSVP details or contact us directly."
+      }
+    ]
+  },
+  "footer": {
+    "line1": "Jasmin & Adam",
+    "line2": "We look forward to celebrating with you."
+  }
+}
