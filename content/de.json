@@ -4,15 +4,15 @@
   },
   "hero": {
     "eyebrow": "Wir heiraten",
-    "date": "...",
-    "intro1": "Wir freuen uns sehr, diesen Tag mit euch zu feiern.",
-    "intro2": "Auf dieser Seite findet ihr alle wichtigen Informationen zu Ort, Ablauf, Anreise und RSVP.",
+    "date": "",
+    "intro1": "Liebe Familie, liebe Freund:innen,",
+    "intro2": "wir heiraten und schmeißen ein dickes Fest! Wuhu! Dieses möchten wir mit euch allen gemeinsam heftig zelebrieren. Wir laden euch ein, mit uns ein schönes Wochenende zu verbringen - zu schmausen, zu trinken, zu schnacken, zu spielen, zu feiern und zu tanzen. Stattfinden wird das Fest inmitten der Schwäbischen Alb auf dem Alb Schlosshof. Ein nettes Örtchen, umgeben von Wald und Wiesen, das nach Urlaub ruft und zum Verweilen und Feiern einlädt. Wir freuen uns.",
     "rsvpButton": "RSVP öffnen",
     "locationButton": "Zum Ort"
   },
   "facts": {
-    "rsvpLabel": "RSVP bis",
-    "rsvpValue": "Freitag, 31. Mai 2024",
+    "rsvpLabel": "Rückmeldung bitte bis",
+    "rsvpValue": "Sonntag, 10. Mai 2026",
     "venueLabel": "Ort"
   },
   "welcome": {
@@ -49,7 +49,7 @@
   },
   "rsvp": {
     "title": "Bitte gebt uns Bescheid",
-    "copy1": "RSVP bis Freitag, 31. Mai 2024.",
+    "copy1": "RSVP bis Sonntag, 10. Mai 2026.",
     "copy2": "Vielen Dank, dass ihr uns bei der Planung helft.",
     "button": "RSVP-Formular öffnen"
   },
