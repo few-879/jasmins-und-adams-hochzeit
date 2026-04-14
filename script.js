@@ -98,7 +98,7 @@ function init() {
   setActiveLanguage(getInitialLanguage(), { syncUrl: false }).catch((error) => {
     console.error(error);
     if (document.body) {
-      document.body.innerHTML = "<p style='padding:1rem;font-family:sans-serif'>Could not load language content files.</p>";
+      document.body.innerHTML = "<p style='padding:1rem;font-family:sans-serif'>Could not load language content files. Please reload this page and delete all site data (cookies) if needed.</p>";
     }
   });
 }
