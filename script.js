@@ -42,6 +42,13 @@ function setText(id, value) {
   }
 }
 
+function setHref(id, value) {
+  const element = document.getElementById(id);
+  if (element) {
+    element.href = value;
+  }
+}
+
 function applyContent(content) {
   document.title = content.meta.title;
 
@@ -50,6 +57,7 @@ function applyContent(content) {
   setText("hero-intro-2", content.hero.intro2);
   setText("hero-rsvp-button", content.hero.rsvpButton);
   setText("hero-info-button", content.hero.infoButton);
+  setHref("hero-info-button", content.hero.infoLink);
   setText("hero-location-button", content.hero.locationButton);
 
   setText("location-eyebrow", content.location.eyebrow);
