@@ -7,18 +7,18 @@
     "intro1": "Dear family and friends,",
     "intro2": "We’re getting married and throwing a big party! Woo-hoo! We invite you to spend a jolly weekend with us – enjoying good food & drinks, celebrating, chatting, playing and dancing. The party will take place in the heart of the Swabian Alb at the Alb Schlosshof. A pleasant little spot, surrounded by woods and meadows, that invites to linger. We're looking forward to celebrating with you.",
     "infoButton": "All Information",
-    "infoLink": "https://seafile.rlp.net/f/3d8f6f50a40c4b62ba6d/en",
+    "infoLink": "https://seafile.rlp.net/f/cede933757af49158166/",
     "rsvpButton": "Open RSVP",
-    "locationButton": "Go to location"
+    "locationButton": "Go to Venue"
   },
   "facts": {
     "rsvpLabel": "RSVP until",
     "rsvpValue": "Sunday, 10th May 2026",
-    "venueLabel": "Location"
+    "venueLabel": "Venue"
   },
   "location": {
-    "eyebrow": "Location",
-    "webButton": "Go to location",
+    "eyebrow": "Venue",
+    "webButton": "Go to Venue",
     "mapButton": "Google Maps"
   },
   "footer": {
