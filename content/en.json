@@ -9,7 +9,9 @@
     "infoButton": "All Information",
     "infoLink": "https://seafile.rlp.net/f/cede933757af49158166/",
     "rsvpButton": "Open RSVP",
-    "locationButton": "Go to Venue"
+    "locationButton": "Go to Venue",
+    "fotoUpload1Button": "Upload wedding photos",
+    "fotoUpload2Button": "Upload photos (alternative link)"
   },
   "facts": {
     "rsvpLabel": "RSVP until",

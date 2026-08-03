@@ -58,6 +58,8 @@ function applyContent(content) {
   setText("hero-rsvp-button", content.hero.rsvpButton);
   setText("hero-info-button", content.hero.infoButton);
   setHref("hero-info-button", content.hero.infoLink);
+  setText("hero-foto-upload-1", content.hero.fotoUpload1Button);
+  setText("hero-foto-upload-2", content.hero.fotoUpload2Button);
   setText("hero-location-button", content.hero.locationButton);
 
   setText("location-eyebrow", content.location.eyebrow);

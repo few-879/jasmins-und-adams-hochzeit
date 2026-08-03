@@ -9,7 +9,9 @@
     "infoButton": "Alle Infos",
     "infoLink": "https://seafile.rlp.net/f/3d8f6f50a40c4b62ba6d/",
     "rsvpButton": "Zur Rück/-Anmeldung",
-    "locationButton": "Zum Ort"
+    "locationButton": "Zum Ort",
+    "fotoUpload1Button": "Fotos hochladen",
+    "fotoUpload2Button": "Fotos hochladen (alternativer Link)"
   },
   "facts": {
     "rsvpLabel": "Rückmeldung bitte bis",

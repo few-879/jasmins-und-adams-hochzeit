@@ -9,7 +9,9 @@
     "infoButton": "Wszystkie informacje",
     "infoLink": "https://seafile.rlp.net/f/75826d5361d74aefa9d7/",
     "rsvpButton": "Otwórz RSVP",
-    "locationButton": "Do miejsca"
+    "locationButton": "Do miejsca",
+    "fotoUpload1Button": "Prześlij zdjęcia",
+    "fotoUpload2Button": "Prześlij zdjęcia (alternatywny link)"
   },
   "facts": {
     "rsvpLabel": "Proszę o potwierdzenie do",
