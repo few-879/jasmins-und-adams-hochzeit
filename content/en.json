@@ -11,7 +11,8 @@
     "rsvpButton": "Open RSVP",
     "locationButton": "Go to Venue",
     "fotoUpload1Button": "Upload wedding photos",
-    "fotoUpload2Button": "Upload photos (alternative link)"
+    "fotoUpload2Button": "Upload photos (alternative link)",
+    "uploadInfo": "Wir würden uns freuen wenn ihr über untenstehenden Link all eure Fotos hochladet. Wir werden diese filtern und anschließend allen zur Verfügung stellen."
   },
   "facts": {
     "rsvpLabel": "RSVP until",

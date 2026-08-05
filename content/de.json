@@ -11,7 +11,8 @@
     "rsvpButton": "Zur Rück/-Anmeldung",
     "locationButton": "Zum Ort",
     "fotoUpload1Button": "Fotos hochladen",
-    "fotoUpload2Button": "Fotos hochladen (alternativer Link)"
+    "fotoUpload2Button": "Fotos hochladen (alternativer Link)",
+    "uploadInfo": "Wir würden uns freuen wenn ihr über untenstehenden Link all eure Fotos hochladet. Wir werden diese filtern und anschließend allen zur Verfügung stellen."
   },
   "facts": {
     "rsvpLabel": "Rückmeldung bitte bis",
