@@ -369,6 +369,68 @@ section.panel {
   gap: 1rem;
 }
 
+/* Albums grid */
+.albums-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.album-card {
+  display: block;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+  border: 1px solid rgba(79,110,87,0.08);
+  box-shadow: 0 12px 30px rgba(79,110,87,0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.album-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+.album-meta {
+  padding: 0.85rem 0.95rem;
+  background: rgba(255,255,255,0.72);
+  border-top: 1px solid rgba(63,84,68,0.04);
+}
+
+.album-meta h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.album-meta p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.album-card:hover,
+.album-card:focus-visible {
+  transform: translateY(-6px);
+  box-shadow: 0 22px 48px rgba(79,110,87,0.12);
+}
+
+/* Video album - overlay play icon */
+.album-card.album-video::after {
+  content: "\25B6";
+  position: absolute;
+  left: 50%;
+  top: 44%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  color: rgba(255,255,255,0.92);
+  text-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
 .faq-item {
   margin: 0;
 }
