@@ -63,6 +63,12 @@ function applyContent(content) {
   setText("hero-foto-upload-2", content.hero.fotoUpload2Button);
   setText("hero-location-button", content.hero.locationButton);
 
+  setText("albums-eyebrow", content.albums.eyebrow);
+  setText("albums-title", content.albums.title);
+  content.albums.items.forEach((title, index) => {
+    setText(`album-title-${index + 1}`, title);
+  });
+
   setText("location-eyebrow", content.location.eyebrow);
   setText("location-web-button", content.location.webButton);
   setText("location-map-button", content.location.mapButton);

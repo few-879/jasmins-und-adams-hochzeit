@@ -396,6 +396,10 @@ section.panel {
   display: block;
 }
 
+/* .album-card img[src$="guest-photos.jpg"] { */
+  /* transform: scale(1.1); */
+/* } */
+
 .album-meta {
   padding: 0.85rem 0.95rem;
   background: rgba(255,255,255,0.72);

@@ -19,6 +19,17 @@
     "rsvpValue": "Niedziela, 10 maja 2026",
     "venueLabel": "Miejsce"
   },
+  "albums": {
+    "eyebrow": "Albumy ze zdjęciami",
+    "title": "Zdjęcia",
+    "items": [
+      "Zdjęcia Evie",
+      "Kalendarz urodzin",
+      "Fotobudka",
+      "Zdjęcia gości",
+      "Filmy"
+    ]
+  },
   "location": {
     "eyebrow": "Lokalizacja",
     "webButton": "Do miejsca",
